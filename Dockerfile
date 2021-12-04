@@ -10,4 +10,5 @@ RUN npm config set registry https://registry.npm.taobao.org && \
 WORKDIR /daxigua
 
 EXPOSE 5000
+
 ENTRYPOINT [ "serve" ]
