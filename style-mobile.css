@@ -1,4 +1,4 @@
-html {
+html {    
     -ms-touch-action: none;
 }
 
@@ -15,8 +15,6 @@ div {
     -khtml-user-select: none;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
-/* Remove spin of input type number */
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
