@@ -1,5 +1,7 @@
+
 window._CCSettings = {
   platform: "web-mobile",
+  
   groupList: ["default", "bg", "ui", "wall", "fruit", "line", "downwall", ""],
   collisionMatrix: [
     [false, null, null, false],
